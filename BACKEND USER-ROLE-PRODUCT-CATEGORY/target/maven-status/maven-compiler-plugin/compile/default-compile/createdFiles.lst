@@ -1,0 +1,11 @@
+com/management/MainApplication.class
+com/management/security/JWTAuthenticationFilter.class
+com/management/entities/Role.class
+com/management/services/UserService.class
+com/management/services/UserServiceImpl.class
+com/management/security/SecurityParameters.class
+com/management/security/SecurityConfiguration.class
+com/management/security/MyUserDetailsService.class
+com/management/repositories/UserRepository.class
+com/management/repositories/RoleRepository.class
+com/management/entities/User.class
